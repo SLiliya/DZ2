@@ -4,8 +4,8 @@ public class Main {
     public static void main(String[] args) {
         int price = 20;
         int cost = 13676;
-        int miles = cost / price;
-        System.out.println("Количество бонусных миль " + miles);
+        int mile = cost / price;
+        System.out.println("Количество бонусных миль " + mile);
 
     }
 }
